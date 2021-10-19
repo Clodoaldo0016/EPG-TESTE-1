@@ -1,0 +1,501 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/200px-A%26E_Network_logo.svg.png" group-titl="FILMES E SÉRIES",A&E HD
+http://cdnrede.com:80/gabriel7114/482971/5101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/200px-A%26E_Network_logo.svg.png" group-titl="FILMES E SÉRIES",A&E SD
+http://cdnrede.com:80/gabriel7114/482971/5100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-titl="FILMES E SÉRIES",AMC HD
+http://cdnrede.com:80/gabriel7114/482971/5099
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-titl="FILMES E SÉRIES",AMC SD
+http://cdnrede.com:80/gabriel7114/482971/5098
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0-2048x2048.png" group-titl="DOCUMENTÁRIO",ANIMAL PLANET HD
+http://cdnrede.com:80/gabriel7114/482971/5003
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0-2048x2048.png" group-titl="DOCUMENTÁRIO",ANIMAL PLANET SD
+http://cdnrede.com:80/gabriel7114/482971/5004
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/129px-Arte_1_logo.svg.png" group-titl="VARIEDADE",ARTE 1 HD
+http://cdnrede.com:80/gabriel7114/482971/5273
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/129px-Arte_1_logo.svg.png" group-titl="VARIEDADE",ARTE 1 SD
+http://cdnrede.com:80/gabriel7114/482971/5274
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-titl="FILMES E SÉRIES",AXN HD
+http://cdnrede.com:80/gabriel7114/482971/5097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-titl="FILMES E SÉRIES",AXN SD
+http://cdnrede.com:80/gabriel7114/482971/5096
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/150px-Baby_TV.png" group-titl="INFANTIL",BABY TV HD
+http://cdnrede.com:80/gabriel7114/482971/5173
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Bk_j9IZXZoI/UcXpttDiWJI/AAAAAAAAAfE/xGIzAOT_KsY/s1600/RedeBandeirantes.jpg" group-titl="ABERTO",BAND HD
+http://cdnrede.com:80/gabriel7114/482971/4969
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Bk_j9IZXZoI/UcXpttDiWJI/AAAAAAAAAfE/xGIzAOT_KsY/s1600/RedeBandeirantes.jpg" group-titl="ABERTO",BAND SD
+http://cdnrede.com:80/gabriel7114/482971/4970
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/800px-BandNews_TV_logo_2010.svg.png" group-titl="DOCUMENTÁRIO",BAND NEWS SD
+http://cdnrede.com:80/gabriel7114/482971/5186
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png" group-titl="ESPORTE",BAND SPORTS HD
+http://cdnrede.com:80/gabriel7114/482971/5037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png" group-titl="",BAND SPORTS SD
+http://cdnrede.com:80/gabriel7114/482971/5038
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-titl="DOCUMENTÁRIO",BIS HD
+http://cdnrede.com:80/gabriel7114/482971/5271
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-titl="VARIEDADE",BIS SD
+http://cdnrede.com:80/gabriel7114/482971/5272
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-titl="INFANTIL",BOOMERANG HD
+http://cdnrede.com:80/gabriel7114/482971/5177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-titl="INFANTIL",BOOMERANG SD
+http://cdnrede.com:80/gabriel7114/482971/5180
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/492px-Canal_Brasil_logo.svg.png" group-titl="VARIEDADE",CANAL BRASIL HD
+http://cdnrede.com:80/gabriel7114/482971/5095
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/492px-Canal_Brasil_logo.svg.png" group-titl="VARIEDADE",CANAL BRASIL SD
+http://cdnrede.com:80/gabriel7114/482971/5094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/200px-Canal_Off_logo.svg.png" group-titl="VARIEDADE",CANAL OFF 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5018
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/200px-Canal_Off_logo.svg.png" group-titl="VARIEDADE",CANAL OFF HD
+http://cdnrede.com:80/gabriel7114/482971/5019
+#EXTINF:-1 tvg-logo="https://www.castecnologia.com.br/wp-content/uploads/2018/07/can%C3%A7%C3%A3o-nova-300x194.jpg" group-titl="ABERTO",CANÇÃO NOVA HD
+http://cdnrede.com:80/gabriel7114/482971/5215
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-titl="INFANTIL",CARTOON NETWORK HD
+http://cdnrede.com:80/gabriel7114/482971/5171
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-titl="INFANTIL",CARTOON NETWORK SD
+http://cdnrede.com:80/gabriel7114/482971/5172
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/r_654_368/newsv7/14/12/16/14/56/153493.jpg" group-titl="FILMES E SÉRIES",CINEMAX HD
+http://cdnrede.com:80/gabriel7114/482971/5091
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/r_654_368/newsv7/14/12/16/14/56/153493.jpg" group-titl="FILMES E SÉRIES",CINEMAX SD
+http://cdnrede.com:80/gabriel7114/482971/5090
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/Ax3aDHrxC0HiNXLLikBlBKPMw3a3qj6L6afz75t71bYCxj3RUpwxKTOW4t7HEfWY/i.glbimg.com/og/ig/infoglobo1/f/original/2015/05/27/4292437-alt-combate-1_3.jpg" group-titl="ESPORTE",COMBATE HD
+http://cdnrede.com:80/gabriel7114/482971/5213
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/Ax3aDHrxC0HiNXLLikBlBKPMw3a3qj6L6afz75t71bYCxj3RUpwxKTOW4t7HEfWY/i.glbimg.com/og/ig/infoglobo1/f/original/2015/05/27/4292437-alt-combate-1_3.jpg" group-titl="ESPORTE",COMBATE SD
+http://cdnrede.com:80/gabriel7114/482971/5212
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-titl="VARIEDADE",COMEDY CENTRAL HD
+http://cdnrede.com:80/gabriel7114/482971/5269
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-titl="VARIEDADE",COMEDY CENTRAL SD
+http://cdnrede.com:80/gabriel7114/482971/5270
+#EXTINF:-1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?resize=448%2C235&ssl=1" group-titl="VARIEDADE",CURTA! HD
+http://cdnrede.com:80/gabriel7114/482971/5267
+#EXTINF:-1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?resize=448%2C235&ssl=1" group-titl="VARIEDADE",CURTA! SD
+http://cdnrede.com:80/gabriel7114/482971/5268
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discovery-150x70.png" group-titl="DOCUMENTÁRIO",DISCOVERY CHANNEL HD
+http://cdnrede.com:80/gabriel7114/482971/5011
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discovery-150x70.png" group-titl="DOCUMENTÁRIO",DISCOVERY CHANNEL SD
+http://cdnrede.com:80/gabriel7114/482971/5002
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-titl="DOCUMENTÁRIO",DISCOVERY H&H HD
+http://cdnrede.com:80/gabriel7114/482971/4997
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/id.png" group-titl="DOCUMENTÁRIO",DISCOVERY ID HD
+http://cdnrede.com:80/gabriel7114/482971/4983
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/id.png" group-titl="DOCUMENTÁRIO",DISCOVERY ID SD
+http://cdnrede.com:80/gabriel7114/482971/4984
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/dicoverykids-150x113.png" group-titl="INFANTIL",DISCOVERY KIDS HD
+http://cdnrede.com:80/gabriel7114/482971/5169
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/dicoverykids-150x113.png" group-titl="INFANTIL",DISCOVERY KIDS SD
+http://cdnrede.com:80/gabriel7114/482971/5170
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryscience.png" group-titl="DOCUMENTÁRIO",DISCOVERY SCIENCE 23
+http://cdnrede.com:80/gabriel7114/482971/4995
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryscience.png" group-titl="DOCUMENTÁRIO",DISCOVERY SCIENCE SD
+http://cdnrede.com:80/gabriel7114/482971/4996
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/theaterhd-150x70.png" group-titl="DOCUMENTÁRIO",DISCOVERY THEATER HD
+http://cdnrede.com:80/gabriel7114/482971/4993
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/theaterhd-150x70.png" group-titl="DOCUMENTÁRIO",DISCOVERY THEATER SD
+http://cdnrede.com:80/gabriel7114/482971/4994
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryworld-150x61.png" group-titl="DOCUMENTÁRIO",DISCOVERY WORLD HD
+http://cdnrede.com:80/gabriel7114/482971/4989
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryworld-150x61.png" group-titl="DOCUMENTÁRIO",DISCOVERY WORLD SD
+http://cdnrede.com:80/gabriel7114/482971/4990
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryturbo-150x48.png" group-titl="DOCUMENTÁRIO",DISCOVERY TURBO HD
+http://cdnrede.com:80/gabriel7114/482971/4991
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discoveryturbo-150x48.png" group-titl="DOCUMENTÁRIO",DISCOVERY TURBO SD
+http://cdnrede.com:80/gabriel7114/482971/4992
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/disneyjr-150x51.png" group-titl="INFANTIL",DISNEY JUNIOR HD
+http://cdnrede.com:80/gabriel7114/482971/5167
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/disneyxd-150x85.png" group-titl="INFANTIL",DISNEY XD HD
+http://cdnrede.com:80/gabriel7114/482971/5165
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/disneyxd-150x85.png" group-titl="INFANTIL",DISNEY XD SD
+http://cdnrede.com:80/gabriel7114/482971/5166
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/e.png" group-titl="VARIEDADE",E! HD
+http://cdnrede.com:80/gabriel7114/482971/5263
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/e.png" group-titl="VARIEDADE",E! SD
+http://cdnrede.com:80/gabriel7114/482971/5264
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/espn-150x33.png" group-titl="ESPORTE",ESPN SD
+http://cdnrede.com:80/gabriel7114/482971/5030
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/12/espn2-150x28.png" group-titl="ESPORTE",ESPN 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5035
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/12/espn2-150x28.png" group-titl="ESPORTE",ESPN 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5036
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/espnbrasil-150x62.png" group-titl="ESPORTE",ESPN BRASIL HD
+http://cdnrede.com:80/gabriel7114/482971/5049
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/espnbrasil-150x62.png" group-titl="ESPORTE",ESPN BRASIL SD
+http://cdnrede.com:80/gabriel7114/482971/5034
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/12/espnextra-150x31.png" group-titl="ESPORTE",ESPN EXTRA HD
+http://cdnrede.com:80/gabriel7114/482971/5031
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/12/espnextra-150x31.png" group-titl="ESPORTE",ESPN EXTRA SD
+http://cdnrede.com:80/gabriel7114/482971/5032
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/fishtv-150x43.png" group-titl="VARIEDADE",FISH TV HD
+http://cdnrede.com:80/gabriel7114/482971/5261
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/fishtv-150x43.png" group-titl="VARIEDADE",FISH TV SD
+http://cdnrede.com:80/gabriel7114/482971/5262
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foodnetwork-150x150.png" group-titl="VARIEDADE",FOOD NETWORK HD
+http://cdnrede.com:80/gabriel7114/482971/5259
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foodnetwork-150x150.png" group-titl="DOCUMENTÁRIO",FOOD NETWORK SD
+http://cdnrede.com:80/gabriel7114/482971/5260
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports-150x83.png" group-titl="ESPORTE",FOX SPORT HD
+http://cdnrede.com:80/gabriel7114/482971/5023
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports-150x83.png" group-titl="",FOX SPORTS SD
+http://cdnrede.com:80/gabriel7114/482971/5022
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports2-150x103.png" group-titl="ESPORTE",FOX SPORTS 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5043
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports2-150x103.png" group-titl="ESPORTE",FOX SPORTS 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5020
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports2-150x103.png" group-titl="ESPORTE",FOX SPORT 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5043
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/futura-150x148.png" group-titl="ABERTO",FUTURA HD
+http://cdnrede.com:80/gabriel7114/482971/4967
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/fx-150x93.png" group-titl="FILMES E SÉRIES",FX SD
+http://cdnrede.com:80/gabriel7114/482971/5080
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tvgazeta-150x58.png" group-titl="ABERTO",GAZETA HD
+http://cdnrede.com:80/gabriel7114/482971/4947
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO HD
+http://cdnrede.com:80/gabriel7114/482971/5107
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO SD
+http://cdnrede.com:80/gabriel7114/482971/5108
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5109
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5110
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 3 HD
+http://cdnrede.com:80/gabriel7114/482971/5111
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 3 SD
+http://cdnrede.com:80/gabriel7114/482971/5112
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 4 HD
+http://cdnrede.com:80/gabriel7114/482971/5113
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 4 SD
+http://cdnrede.com:80/gabriel7114/482971/5114
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 5 HD
+http://cdnrede.com:80/gabriel7114/482971/5115
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 5 SD
+http://cdnrede.com:80/gabriel7114/482971/5116
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 6 HD
+http://cdnrede.com:80/gabriel7114/482971/5117
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 6 SD
+http://cdnrede.com:80/gabriel7114/482971/5118
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 7 HD
+http://cdnrede.com:80/gabriel7114/482971/5119
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 7 SD
+http://cdnrede.com:80/gabriel7114/482971/5120
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 8 HD
+http://cdnrede.com:80/gabriel7114/482971/5121
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 8 SD
+http://cdnrede.com:80/gabriel7114/482971/5122
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 9 HD
+http://cdnrede.com:80/gabriel7114/482971/5123
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 9 SD
+http://cdnrede.com:80/gabriel7114/482971/5124
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 10 HD
+http://cdnrede.com:80/gabriel7114/482971/5125
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 10 SD
+http://cdnrede.com:80/gabriel7114/482971/5126
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 11 HD
+http://cdnrede.com:80/gabriel7114/482971/5127
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 11 SD
+http://cdnrede.com:80/gabriel7114/482971/5128
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 12 HD
+http://cdnrede.com:80/gabriel7114/482971/5129
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 12 SD
+http://cdnrede.com:80/gabriel7114/482971/5130
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 13 HD
+http://cdnrede.com:80/gabriel7114/482971/5131
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 13 SD
+http://cdnrede.com:80/gabriel7114/482971/5132
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 14 HD
+http://cdnrede.com:80/gabriel7114/482971/5133
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 14 SD
+http://cdnrede.com:80/gabriel7114/482971/5134
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 15 HD
+http://cdnrede.com:80/gabriel7114/482971/5135
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 15 SD
+http://cdnrede.com:80/gabriel7114/482971/5136
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 16 HD
+http://cdnrede.com:80/gabriel7114/482971/5137
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-1.png" group-titl="ABERTO",GLOBO 16 SD
+http://cdnrede.com:80/gabriel7114/482971/5138
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globonews-150x36.png" group-titl="DOCUMENTÁRIO",GLOBO NEWS HD
+http://cdnrede.com:80/gabriel7114/482971/5185
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globonews-150x36.png" group-titl="DOCUMENTÁRIO",GLOBO NEWS SD
+http://cdnrede.com:80/gabriel7114/482971/5184
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/gloob-150x53.png" group-titl="INFANTIL",GLOOB HD
+http://cdnrede.com:80/gabriel7114/482971/5163
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/gloob-150x53.png" group-titl="INFANTIL",GLOOB SD
+http://cdnrede.com:80/gabriel7114/482971/5164
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/gloobinho-150x90.png" group-titl="INFANTIL",GLOOBINHO HD
+http://cdnrede.com:80/gabriel7114/482971/5161
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/gloobinho-150x90.png" group-titl="INFANTIL",GLOOBINHO SD
+http://cdnrede.com:80/gabriel7114/482971/5162
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/gnt-150x78.png" group-titl="VARIEDADE",GNT HD
+http://cdnrede.com:80/gabriel7114/482971/5253
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/gnt-150x78.png" group-titl="VARIEDADE",GNT SD
+http://cdnrede.com:80/gabriel7114/482971/5258
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/history-150x138.png" group-titl="DOCUMENTÁRIO",H HISTORY SD
+http://cdnrede.com:80/gabriel7114/482971/4986
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/history-150x138.png" group-titl="DOCUMENTÁRIO",H2 HISTORY HD
+http://cdnrede.com:80/gabriel7114/482971/4987
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/h2-150x129.png" group-titl="DOCUMENTÁRIO",H2 HISTORY SD
+http://cdnrede.com:80/gabriel7114/482971/4988
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbo-150x62.png" group-titl="FILMES E SÉRIES",HBO HD
+http://cdnrede.com:80/gabriel7114/482971/5149
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbo-150x62.png" group-titl="FILMES E SÉRIES",HBO SD
+http://cdnrede.com:80/gabriel7114/482971/5144
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbo2hd-150x31.png" group-titl="FILMES E SÉRIES",HBO 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5151
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hboplus-1-150x102.png" group-titl="FILMES E SÉRIES",HBO + HD
+http://cdnrede.com:80/gabriel7114/482971/5141
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbo2hd-150x31.png" group-titl="FILMES E SÉRIES",HBO 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5148
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hboxtremeb-150x102.png" group-titl="FILMES E SÉRIES",HBO EXTREME HD
+http://cdnrede.com:80/gabriel7114/482971/5075
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbofamily-150x108.png" group-titl="FILMES E SÉRIES",HBO FAMILY HD
+http://cdnrede.com:80/gabriel7114/482971/5145
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/hbofamily-150x108.png" group-titl="FILMES E SÉRIES",HBO FAMILY  SD
+http://cdnrede.com:80/gabriel7114/482971/5146
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/iO5ep_U__W-3nA-8tTo3-eIwgsc=/0x0:1584x890/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/M/X/tAjAUsQwuedBBwKyx6mg/hbo-max-press-on-white-horiz-300dpi.jpg" group-titl="FILMES E SÉRIES",HBO MAX HD
+http://cdnrede.com:80/gabriel7114/482971/5139
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/iO5ep_U__W-3nA-8tTo3-eIwgsc=/0x0:1584x890/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/M/X/tAjAUsQwuedBBwKyx6mg/hbo-max-press-on-white-horiz-300dpi.jpg" group-titl="FILMES E SÉRIES",HBO MAX SD
+http://cdnrede.com:80/gabriel7114/482971/5140
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hbomundib-150x102.png" group-titl="FILMES E SÉRIES",HBO MUNDI HD
+http://cdnrede.com:80/gabriel7114/482971/5079
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hbomundib-150x102.png" group-titl="FILMES E SÉRIES",HBO MUNDI SD
+http://cdnrede.com:80/gabriel7114/482971/5078
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hbopopb-150x109.png" group-titl="FILMES E SÉRIES",HBO POP HD
+http://cdnrede.com:80/gabriel7114/482971/5073
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hbopopb-150x109.png" group-titl="FILMES E SÉRIES",HBO POP SD
+http://cdnrede.com:80/gabriel7114/482971/5074
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/hgtv-150x77.png" group-titl="VARIEDADE",HGTV SD
+http://cdnrede.com:80/gabriel7114/482971/5000
+#EXTINF:-1 tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-titl="FILMES E SÉRIES",HOOWOO HD
+http://cdnrede.com:80/gabriel7114/482971/5235
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png" group-titl="VARIEDADE",JOVEM PAN HD
+http://cdnrede.com:80/gabriel7114/482971/4985
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/lifetime.png" group-titl="VARIEDADE",LIFETIME HD
+http://cdnrede.com:80/gabriel7114/482971/5255
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/lifetime.png" group-titl="VARIEDADE",LIFETIME SD
+http://cdnrede.com:80/gabriel7114/482971/5256
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQDtAMl14hJbNijmi78PJlZ37Q1v3F5GpqphNFd=s900-c-k-c0x00ffffff-no-rj" group-titl="VARIEDADE",MAIS SD
+http://cdnrede.com:80/gabriel7114/482971/5252
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/megapix-150x48.png" group-titl="FILMES E SÉRIES",MEGA PIX HD
+http://cdnrede.com:80/gabriel7114/482971/5071
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/megapix-150x48.png" group-titl="FILMES E SÉRIES",MEGA PIX  SD
+http://cdnrede.com:80/gabriel7114/482971/5072
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/mtv-150x113.png" group-titl="VARIEDADE",MTV HD
+http://cdnrede.com:80/gabriel7114/482971/5251
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/mtv-150x113.png" group-titl="VARIEDADE",MTV SD
+http://cdnrede.com:80/gabriel7114/482971/5254
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/multishow-150x75.png" group-titl="VARIEDADE",MULTSHOW HD
+http://cdnrede.com:80/gabriel7114/482971/5249
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/multishow-150x75.png" group-titl="VARIEDADE",MULTSHOW SD
+http://cdnrede.com:80/gabriel7114/482971/5250
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71bxu2TGkCL.png" group-titl="VARIEDADE",MUSIC HD
+http://cdnrede.com:80/gabriel7114/482971/5247
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71bxu2TGkCL.png" group-titl="VARIEDADE",MUSIC SD
+http://cdnrede.com:80/gabriel7114/482971/5248
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NATGEO KIDS HD
+http://cdnrede.com:80/gabriel7114/482971/5159
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NATGEO KIDS SD
+http://cdnrede.com:80/gabriel7114/482971/5160
+#EXTINF:-1 tvg-logo="" group-titl="DOCUMENTÁRIO",NATIONAL GEOGRAFIC SD
+http://cdnrede.com:80/gabriel7114/482971/4982
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NICK HD
+http://cdnrede.com:80/gabriel7114/482971/5155
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NICK SD
+http://cdnrede.com:80/gabriel7114/482971/5156
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NICK JR. HD
+http://cdnrede.com:80/gabriel7114/482971/5175
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",NICK JR. SD
+http://cdnrede.com:80/gabriel7114/482971/5158
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",PARAMOUNT NETWORK HD
+http://cdnrede.com:80/gabriel7114/482971/5069
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",PARAMOUNT NETWORK SD
+http://cdnrede.com:80/gabriel7114/482971/5070
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",PRIME HD
+http://cdnrede.com:80/gabriel7114/482971/5245
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",PRIME SD
+http://cdnrede.com:80/gabriel7114/482971/5246
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5191
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5192
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5193
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5194
+#EXTINF:-1 tvg-logo="" group-titl=ESPORTE"",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5195
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5196
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5197
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5198
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5199
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTES",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5200
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5201
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5202
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5203
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5204
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5205
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5206
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5207
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5208
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5209
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE SD
+http://cdnrede.com:80/gabriel7114/482971/5210
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",PREMIERE HD
+http://cdnrede.com:80/gabriel7114/482971/5211
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",POLISHOP HD
+http://cdnrede.com:80/gabriel7114/482971/4981
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",RECORD HD
+http://cdnrede.com:80/gabriel7114/482971/4965
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",RECORD SD
+http://cdnrede.com:80/gabriel7114/482971/4972
+#EXTINF:-1 tvg-logo="" group-titl="DOCUMENTÁRIO",RECORD NEWS HD
+http://cdnrede.com:80/gabriel7114/482971/5183
+#EXTINF:-1 tvg-logo="" group-titl="DOCUMENTÁRIO",RECORD NEWS SD
+http://cdnrede.com:80/gabriel7114/482971/5182
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",REDE TV SD
+http://cdnrede.com:80/gabriel7114/482971/4960
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",REDE BRASIL HD
+http://cdnrede.com:80/gabriel7114/482971/4961
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",REDE TV HD
+http://cdnrede.com:80/gabriel7114/482971/4959
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",SPACE HD
+http://cdnrede.com:80/gabriel7114/482971/5065
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",SPACE SD
+http://cdnrede.com:80/gabriel7114/482971/5066
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",SBT HD
+http://cdnrede.com:80/gabriel7114/482971/4971
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",SONY CHANNEL HD
+http://cdnrede.com:80/gabriel7114/482971/5093
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",SONY CHANNEL SD
+http://cdnrede.com:80/gabriel7114/482971/5092
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV HD
+http://cdnrede.com:80/gabriel7114/482971/5017
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV SD
+http://cdnrede.com:80/gabriel7114/482971/5012
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5015
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5042
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV 3 HD
+http://cdnrede.com:80/gabriel7114/482971/5013
+#EXTINF:-1 tvg-logo="" group-titl="ESPORTE",SPORTV 3 SD
+http://cdnrede.com:80/gabriel7114/482971/5014
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR CHANNEL SD
+http://cdnrede.com:80/gabriel7114/482971/5088
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR HITS HD
+http://cdnrede.com:80/gabriel7114/482971/5085
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR HITS SD
+http://cdnrede.com:80/gabriel7114/482971/5084
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR HITS 2 HD
+http://cdnrede.com:80/gabriel7114/482971/5083
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR HITS 2 SD
+http://cdnrede.com:80/gabriel7114/482971/5082
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",STAR LIFE SD
+http://cdnrede.com:80/gabriel7114/482971/5086
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://cdnrede.com:80/gabriel7114/482971/5063
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://cdnrede.com:80/gabriel7114/482971/5064
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",SYFY HD
+http://cdnrede.com:80/gabriel7114/482971/5067
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",SYFY SD
+http://cdnrede.com:80/gabriel7114/482971/5068
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TBS HD
+http://cdnrede.com:80/gabriel7114/482971/5059
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TBS SD
+http://cdnrede.com:80/gabriel7114/482971/5060
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TCM SD
+http://cdnrede.com:80/gabriel7114/482971/5058
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE ACTION HD
+http://cdnrede.com:80/gabriel7114/482971/5233
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE ACTION SD
+http://cdnrede.com:80/gabriel7114/482971/5228
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE CULT HD
+http://cdnrede.com:80/gabriel7114/482971/5225
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE CULT SD
+http://cdnrede.com:80/gabriel7114/482971/5226
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE FUN HD
+http://cdnrede.com:80/gabriel7114/482971/5223
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE FUN SD
+http://cdnrede.com:80/gabriel7114/482971/5224
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE PIPOCA HD
+http://cdnrede.com:80/gabriel7114/482971/5231
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE PIPOCA SD
+http://cdnrede.com:80/gabriel7114/482971/5222
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE PREMIUM HD
+http://cdnrede.com:80/gabriel7114/482971/5219
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE PREMIUM SD
+http://cdnrede.com:80/gabriel7114/482971/5220
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE TOUCH HD
+http://cdnrede.com:80/gabriel7114/482971/5229
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE TOUCH SD
+http://cdnrede.com:80/gabriel7114/482971/5218
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TELECINE PREMIUM SD
+http://cdnrede.com:80/gabriel7114/482971/5230
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TERRA VIVA HD
+http://cdnrede.com:80/gabriel7114/482971/5187
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TERRA VIVA SD
+http://cdnrede.com:80/gabriel7114/482971/4956
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TLC HD
+http://cdnrede.com:80/gabriel7114/482971/5241
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TLC TV SD
+http://cdnrede.com:80/gabriel7114/482971/5242
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TNT HD
+http://cdnrede.com:80/gabriel7114/482971/5057
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TNT SD
+http://cdnrede.com:80/gabriel7114/482971/5056
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TNT SÉRIES HD
+http://cdnrede.com:80/gabriel7114/482971/5055
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",TNT SÉRIES SD
+http://cdnrede.com:80/gabriel7114/482971/5054
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",TRU TV SD
+http://cdnrede.com:80/gabriel7114/482971/5244
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV APARECIDA HD
+http://cdnrede.com:80/gabriel7114/482971/4951
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV BRASIL 2 SD
+http://cdnrede.com:80/gabriel7114/482971/4950
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV CÂMARA HD
+http://cdnrede.com:80/gabriel7114/482971/4949
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV ESCOLA SD
+http://cdnrede.com:80/gabriel7114/482971/4948
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV JUSTIÇA SD
+http://cdnrede.com:80/gabriel7114/482971/4952
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",TV RÁ-TIM-BUM HD
+http://cdnrede.com:80/gabriel7114/482971/5153
+#EXTINF:-1 tvg-logo="" group-titl="INFANTIL",TV RÁ-TIM-BUM SD
+http://cdnrede.com:80/gabriel7114/482971/5152
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",TRU TV HD
+http://cdnrede.com:80/gabriel7114/482971/5243
+#EXTINF:-1 tvg-logo="" group-titl="ABERTO",TV SENADO HD
+http://cdnrede.com:80/gabriel7114/482971/4953
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",UNIVERSAL TV HD
+http://cdnrede.com:80/gabriel7114/482971/5053
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",UNIVERSAL TV SD
+http://cdnrede.com:80/gabriel7114/482971/5052
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",VIVA HD
+http://cdnrede.com:80/gabriel7114/482971/5237
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",VIVA SD
+http://cdnrede.com:80/gabriel7114/482971/5236
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",WARNER BROS TV HD
+http://cdnrede.com:80/gabriel7114/482971/5051
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",WARNER BROS TV SD
+http://cdnrede.com:80/gabriel7114/482971/5102
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",WILD HD
+http://cdnrede.com:80/gabriel7114/482971/4979
+#EXTINF:-1 tvg-logo="" group-titl="VARIEDADE",WILD SD
+http://cdnrede.com:80/gabriel7114/482971/4980
+#EXTINF:-1 tvg-logo="" group-titl="FILMES E SÉRIES",WOOHOO SD
+http://cdnrede.com:80/gabriel7114/482971/5234
